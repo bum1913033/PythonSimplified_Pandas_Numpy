@@ -1,4 +1,4 @@
-# PythonSimplified_Pandas_Numpy
+# PythonSimplified_Practice
 
 This is a repo for personal practice sessions that follow youtube video tutorials from the channel 'Python Simplified'.
 
